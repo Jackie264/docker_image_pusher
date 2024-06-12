@@ -7,3 +7,11 @@ mogeko/vlmcsd
 filebrowser/filebrowser
 portainer/portainer-ce
 hslr/sun-panel
+louislam/uptime-kuma:1
+ghcr.io/gethomepage/homepage
+wisdomsky/cloudflared-web
+jeessy/ddns-go
+twingate/connector:1
+corentinth/it-tools
+snowdreamtech/frpc
+easychen/cookiecloud
