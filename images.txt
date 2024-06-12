@@ -1,4 +1,9 @@
-nginx
-kasmweb/nginx:1.25.3
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+adguard/adguardhome
+0nlylty/dockercopilot
+wcjiang/reference
+cym1102/nginxwebui
+dockurr/windows
+mogeko/vlmcsd
+filebrowser/filebrowser
+portainer/portainer-ce
+hslr/sun-panel
