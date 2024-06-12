@@ -1,5 +1,5 @@
-adguard/adguardhome
-0nlylty/dockercopilot
+adguard/adguardhome:v0.107.51
+0nlylty/dockercopilot:UGREEN
 wcjiang/reference
 cym1102/nginxwebui
 dockurr/windows
